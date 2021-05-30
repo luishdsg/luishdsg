@@ -4,8 +4,7 @@
 
 > especializações
 
-| | | |
-| `radical` ![radical][radical] |
+| ![radical][radical] |
 ## Repo Card
 
 > These themes work both for the Stats Card and Repo Card.

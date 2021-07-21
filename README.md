@@ -4,7 +4,6 @@ Programador Front-end ReactJS. Atualmente cursando o 3º semestre em Análise e 
 suporte e manutenção junior na Prepara cursos.
 
 > especializações
-> acesso projeto principal http://cf968fd0786a.ngrok.io
 
 ![radical][radical]
 

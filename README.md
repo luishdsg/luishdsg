@@ -15,6 +15,6 @@ tentando não estar certo, e sim menos, errado # todos os dias!
  <div style="display: flex; align-items: center;" >
   <a href="https://github.com/luishdsg">
   <img height="auto" src="download.svg"/>
-     <img height="auto" width="300px" src="th.png"/>
+     <img height="auto" width="700px" src="th.png"/>
 </div>
 

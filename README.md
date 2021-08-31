@@ -1,5 +1,8 @@
 ## Front-end Developer
 
+
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/N6pzsgZ/bro.png" />
 Programador Front-end ReactJS. Atualmente cursando o 3º semestre em Análise e Desenvolvimento de Sistemas no Centro Universitário Euro Americano (UNIEURO), e ex-Analista de 
 suporte e manutenção junior na Prepara cursos.
 

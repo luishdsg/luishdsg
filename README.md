@@ -3,8 +3,9 @@
 
 
 <img align="left" alt="Visual Studio Code" width="100%" src="https://i.ibb.co/N6pzsgZ/bro.png" />
-Programador Front-end ReactJS
-Se formando em Análise e Desenvolvimento de Sistemas na (UNIEURO)
+Programador Front-end ReactJS <br/>
+Formando-me em Análise e Desenvolvimento de Sistemas na (UNIEURO)
+tentando não estar certo, e sim menos, errado # todos os dias!
 
 > especializações
 

@@ -147,7 +147,7 @@
 
       <circle cx="5" cy="6" r="5"  fill="#2b7489" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Php 23.3%
+        TypeScript 23.3%
       </text>
     </g>
   

@@ -3,7 +3,7 @@
 
 
 <img align="left" alt="Visual Studio Code" width="100%" src="https://i.ibb.co/V9tYfGP/68747470733a2f2f692e6962622e636f2f4e36707a73675a2f62726f2e706e67.png" />
-Programador Front-end ReactJS <br/>
+Programador Front-end Jr <br/>
 Formando-me em Análise e Desenvolvimento de Sistemas na (UNIEURO) <br/>
 tentando não estar certo, e sim menos errado!
 

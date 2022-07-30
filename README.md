@@ -15,7 +15,7 @@ tentando não estar certo, e sim menos errado!
  <div style="display: flex; align-items: center;" >
   <a href="https://github.com/luishdsg">
   <img height="auto" src="download.svg"/>
-        <img height="auto" width="450px" style="padding:0 20px;" src="th.png"/>
+     
 
 </div>
 
